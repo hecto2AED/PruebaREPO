@@ -1,0 +1,16 @@
+---
+title: "Prueba"
+author: "hectortorresmuñoz"
+date: "2025-10-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print('cocacola jeje')
+print('hola que tal bien y tu yo bien ah vale me alegro y yo')
+```
+
